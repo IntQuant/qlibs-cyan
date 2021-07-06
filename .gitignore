@@ -1,0 +1,8 @@
+*.pyc
+dist/*
+build/*
+qlibs.egg-info
+_build
+__pycache__
+*.so
+.coverage
